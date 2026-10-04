@@ -13,4 +13,10 @@ API, image library, storage, networking and metrics.
 - **Virtainer Registry**: [registry.virtainer.io](https://registry.virtainer.io/?utm_source=github&utm_medium=profile&utm_content=registry), a public
   catalog of Linux cloud images with download URLs and checksums.
 
+## Open source
+
+- [virtainer-guest-agent](https://github.com/virtainer/virtainer-guest-agent): a QEMU Guest Agent
+  compatible agent for Linux VMs on Cloud Hypervisor, reached over vsock. One static binary,
+  Apache-2.0.
+
 [Website](https://virtainer.io/?utm_source=github&utm_medium=profile&utm_content=website) · [Documentation](https://docs.virtainer.io/?utm_source=github&utm_medium=profile&utm_content=docs) · [Install Free](https://docs.virtainer.io/free/?utm_source=github&utm_medium=profile&utm_content=install) · [Join the Pro waitlist](https://virtainer.io/pro?utm_source=github&utm_medium=profile&utm_content=waitlist#pro-form)
