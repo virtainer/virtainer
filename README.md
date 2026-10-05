@@ -18,5 +18,10 @@ API, image library, storage, networking and metrics.
 - [virtainer-guest-agent](https://github.com/virtainer/virtainer-guest-agent): a QEMU Guest Agent
   compatible agent for Linux VMs on Cloud Hypervisor, reached over vsock. One static binary,
   Apache-2.0.
+- [cloud-image-inspector](https://github.com/virtainer/cloud-image-inspector): reads cloud disk
+  images without booting or mounting them (qcow2/raw, ext4/XFS/btrfs) and reports the OS and the
+  facts first-boot configuration depends on. No dependencies, Apache-2.0.
+
+More on [virtainer.io/open-source](https://virtainer.io/open-source?utm_source=github&utm_medium=profile&utm_content=open-source).
 
 [Website](https://virtainer.io/?utm_source=github&utm_medium=profile&utm_content=website) · [Documentation](https://docs.virtainer.io/?utm_source=github&utm_medium=profile&utm_content=docs) · [Install Free](https://docs.virtainer.io/free/?utm_source=github&utm_medium=profile&utm_content=install) · [Join the Pro waitlist](https://virtainer.io/pro?utm_source=github&utm_medium=profile&utm_content=waitlist#pro-form)
